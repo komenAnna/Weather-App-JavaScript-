@@ -22,7 +22,7 @@ const locationBtn = document.querySelector("button");
 
 // store the open weather api key in a variable then call it in the function requestApi
 //this APIkey should be private meaning i should be the only one that can see it
-const apiKey = "88f0b417e0c5f2c8cbb29434403cd29e";
+const apiKey = "#";
 
 //create an event with the inputField var created baove that when the user keys in a city name and presses enter
 //keyup event occurs when a keyboard key is released; so on keyup execute the following event
